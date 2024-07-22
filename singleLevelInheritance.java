@@ -23,7 +23,7 @@ class Developer extends Employee{
     }
 }
 
-public class MainClass3 {
+public class singleLevelInheritance {
 public static void main(String[] args) {
     Developer developer1 =
             new Developer("TYP9001","Senior Software Engineer","Jagannath",200000);
